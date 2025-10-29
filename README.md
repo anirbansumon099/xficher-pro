@@ -34,6 +34,15 @@ cd xficher-pro
 ```
 ---
 ## 🔗Run Xfitcher pro 
+
+```bash
+pip install cloudflare
+```
+
+```bash
+pip install requests rich
+```
+
 ### run 
 ```bash
 python main.py
