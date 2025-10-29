@@ -8,9 +8,9 @@ This guide will help you set up and run the app inside **Termux** easily.
 
 ---
 
-## 🔗 Setup Termux application 
+## 🔗Setup Termux application 
 
-update package 
+ update package 
 ```bash
 pkg update -y && pkg upgrade -y
 ```
@@ -24,17 +24,17 @@ pkg install git
 ```
 
 ---
-## 🔗 Git Repository
+## 🔗Git Repository
 
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/anirbansumon099/xficher-pro.git
+cd xficher-pro
 ```
 ---
-## 🔗  Run Xfitcher pro 
-
+## 🔗Run Xfitcher pro 
+### run 
 ```bash
 python main.py
 ```
