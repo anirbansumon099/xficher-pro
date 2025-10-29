@@ -16,7 +16,7 @@ pkg update -y && pkg upgrade -y
 ```
 install python package 
 ```bash
-pkg install python && python2 && python 3
+pkg install python && python2 && python3
 ```
 install git clone package 
 ```bash
