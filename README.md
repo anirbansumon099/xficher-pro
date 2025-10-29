@@ -1,6 +1,6 @@
 # xficher-pro
 
-# 📱 Termux App Setup Guide
+# 📱 Xficher App Setup Guide
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/username/repository-name)
 
@@ -10,17 +10,20 @@ This guide will help you set up and run the app inside **Termux** easily.
 
 ## 🔗 Setup Termux application 
 
+update package 
 ```bash
 pkg update -y && pkg upgrade -y
 ```
+install python package 
 ```bash
 pkg install python && python2 && python 3
 ```
+install git clone package 
 ```bash
 pkg install git
 ```
 
-
+---
 ## 🔗 Git Repository
 
 Clone the project from GitHub:
@@ -29,9 +32,11 @@ Clone the project from GitHub:
 git clone https://github.com/username/repository-name.git
 cd repository-name
 ```
-## 🔗  Xfitcher pro 
+---
+## 🔗  Run Xfitcher pro 
 
 ```bash
 python main.py
 ```
 
+---
